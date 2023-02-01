@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">A2_v1</string>
+    <string name="sumText">Sum:</string>
+    <string name="sumNumber">zl</string>
+    <string name="tipText">Tip:</string>
+    <string name="tip10">10%</string>
+    <string name="tip15">15%</string>
+    <string name="tip20">20%</string>
+    <string name="serviceRatingText">Service rating:</string>
+    <string name="foodRatingText">Food rating:</string>
+    <string name="foodRatingBar">Food rating bar:</string>
+    <string name="summaryText">Summary:</string>
+    <string name="foodCost">Food cost:</string>
+    <string name="calculateButton">Calculate</string>
+</resources>
